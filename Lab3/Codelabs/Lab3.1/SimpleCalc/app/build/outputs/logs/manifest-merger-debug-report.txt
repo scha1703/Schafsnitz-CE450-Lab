@@ -1,0 +1,96 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\97a68b2c291124255834d1deb4eaa8e9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c92bb8724414af3ddadf98e74676818e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\96478f570e1a8822a4c6ae6aef6fd9f7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\94096bd2dfdda0846cfa00b9585059e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e9ea5b2aee1a49e4b8291c0d50a3111e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b01ae7abefb65d913d06da5f00618d9b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fb2f1a9bde4a16e5e54f2723c82aec11\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ff5d5cd00e729314b6f5aa2b197dc149\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cf5d76bd0eb1f1171f2466175911d7d9\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\35132b25e1c3d0320c0742b0d24d123a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2231e15a0e445d851c113eee2b26de67\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+	package
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:18:5-45
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:17:1-34:12
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:17:11-69
+application
+ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:20:5-32:19
+	android:supportsRtl
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:24:9-35
+	android:label
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:25:9-40
+activity#com.example.android.SimpleCalc.MainActivity
+ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:26:9-31:20
+	android:name
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:26:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:27:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml:29:27-74
+uses-sdk
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\97a68b2c291124255834d1deb4eaa8e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\97a68b2c291124255834d1deb4eaa8e9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c92bb8724414af3ddadf98e74676818e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c92bb8724414af3ddadf98e74676818e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\96478f570e1a8822a4c6ae6aef6fd9f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\96478f570e1a8822a4c6ae6aef6fd9f7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\94096bd2dfdda0846cfa00b9585059e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\94096bd2dfdda0846cfa00b9585059e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e9ea5b2aee1a49e4b8291c0d50a3111e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\e9ea5b2aee1a49e4b8291c0d50a3111e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b01ae7abefb65d913d06da5f00618d9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\b01ae7abefb65d913d06da5f00618d9b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fb2f1a9bde4a16e5e54f2723c82aec11\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\fb2f1a9bde4a16e5e54f2723c82aec11\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ff5d5cd00e729314b6f5aa2b197dc149\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\ff5d5cd00e729314b6f5aa2b197dc149\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cf5d76bd0eb1f1171f2466175911d7d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\cf5d76bd0eb1f1171f2466175911d7d9\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\35132b25e1c3d0320c0742b0d24d123a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\35132b25e1c3d0320c0742b0d24d123a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2231e15a0e445d851c113eee2b26de67\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2231e15a0e445d851c113eee2b26de67\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab3\Codelabs\Lab3.1\SimpleCalc\app\src\main\AndroidManifest.xml
