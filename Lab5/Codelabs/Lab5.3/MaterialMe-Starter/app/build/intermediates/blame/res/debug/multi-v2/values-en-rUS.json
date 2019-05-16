@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\garre\\Documents\\GitHub\\Schafsnitz-CE450-Lab\\Lab5\\Codelabs\\Lab5.3\\MaterialMe-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-en-rUS\\values-en-rUS.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\garre\\Documents\\GitHub\\Schafsnitz-CE450-Lab\\Lab5\\Codelabs\\Lab5.3\\MaterialMe-Starter\\app\\src\\main\\res\\values-en-rUS\\strings.xml",
+                    "from": {
+                        "startLines": "35,22,8,2,6,4,5,3",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1909,1303,902,57,283,161,212,108",
+                        "endLines": "47,34,20,2,6,4,5,3",
+                        "endColumns": "12,19,19,49,615,49,69,51",
+                        "endOffsets": "2441,1903,1295,102,894,206,277,155"
+                    },
+                    "to": {
+                        "startLines": "2,15,28,41,42,43,44,45",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,580,1173,1559,1609,2225,2275,2345",
+                        "endLines": "14,27,40,41,42,43,44,45",
+                        "endColumns": "12,19,19,49,615,49,69,51",
+                        "endOffsets": "575,1168,1554,1604,2220,2270,2340,2392"
+                    }
+                }
+            ]
+        }
+    ]
+}

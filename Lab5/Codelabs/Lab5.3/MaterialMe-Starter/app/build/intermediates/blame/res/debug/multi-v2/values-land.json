@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\garre\\Documents\\GitHub\\Schafsnitz-CE450-Lab\\Lab5\\Codelabs\\Lab5.3\\MaterialMe-Starter\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\garre\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\97a68b2c291124255834d1deb4eaa8e9\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\garre\\Documents\\GitHub\\Schafsnitz-CE450-Lab\\Lab5\\Codelabs\\Lab5.3\\MaterialMe-Starter\\app\\src\\main\\res\\values-land\\integers.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "11",
+                        "startOffsets": "51",
+                        "endColumns": "56",
+                        "endOffsets": "96"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "328",
+                        "endColumns": "49",
+                        "endOffsets": "373"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\garre\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\e1498832bf093dda18aa0c6d11b04a2f\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "378",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "555"
+                    }
+                }
+            ]
+        }
+    ]
+}

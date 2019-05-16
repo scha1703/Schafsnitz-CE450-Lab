@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Tue May 07 21:58:56 EDT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\garre\\Documents\\GitHub\\Schafsnitz-CE450-Lab\\Lab4\\Codelabs\\Lab4.2\\DroidCafeInput\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

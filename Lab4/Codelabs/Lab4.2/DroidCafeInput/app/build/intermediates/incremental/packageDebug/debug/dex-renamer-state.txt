@@ -1,0 +1,4 @@
+#Wed May 08 13:59:36 EDT 2019
+base.0=C\:\\Users\\garre\\Documents\\GitHub\\Schafsnitz-CE450-Lab\\Lab4\\Codelabs\\Lab4.2\\DroidCafeInput\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
