@@ -1,0 +1,101 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\15d9f471b785b5c84dc4c94c259439d1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\047bcac0806b63c5f99eab1b7ca4250c\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\42c0b30fab1c888b4da33efa0ea86da0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6dfbd489d756720ded688e3255133f1c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3d61297ec8d6ff693cfb0703f7995ca4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a0ebfe2fc0eec7a75d5f5219198c0a58\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\dd1f51e0a78f33bf0a38ccd36dac6fe6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8cdbd6f23539622bceacd9a0b87c9764\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7571edb1fdfc08031e52b552dc512f3e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9d38630b857f5102d7c35ff86e50925a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7e539aea174013e2321b198b2245a11d\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fb1cb787e8052aa3e1c1ce6049e09f5d\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+	package
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:16:11-57
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:1-32:12
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:15:11-69
+application
+ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:18:5-30:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\047bcac0806b63c5f99eab1b7ca4250c\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\047bcac0806b63c5f99eab1b7ca4250c\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:23:9-40
+activity#com.example.android.hellosharedprefs.MainActivity
+ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:9-29:20
+	android:name
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:25:13-28:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\15d9f471b785b5c84dc4c94c259439d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\15d9f471b785b5c84dc4c94c259439d1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\047bcac0806b63c5f99eab1b7ca4250c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\047bcac0806b63c5f99eab1b7ca4250c\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\42c0b30fab1c888b4da33efa0ea86da0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\42c0b30fab1c888b4da33efa0ea86da0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6dfbd489d756720ded688e3255133f1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\6dfbd489d756720ded688e3255133f1c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3d61297ec8d6ff693cfb0703f7995ca4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\3d61297ec8d6ff693cfb0703f7995ca4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a0ebfe2fc0eec7a75d5f5219198c0a58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\a0ebfe2fc0eec7a75d5f5219198c0a58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\dd1f51e0a78f33bf0a38ccd36dac6fe6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\dd1f51e0a78f33bf0a38ccd36dac6fe6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8cdbd6f23539622bceacd9a0b87c9764\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8cdbd6f23539622bceacd9a0b87c9764\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7571edb1fdfc08031e52b552dc512f3e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\7571edb1fdfc08031e52b552dc512f3e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9d38630b857f5102d7c35ff86e50925a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\9d38630b857f5102d7c35ff86e50925a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7e539aea174013e2321b198b2245a11d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7e539aea174013e2321b198b2245a11d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fb1cb787e8052aa3e1c1ce6049e09f5d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\garre\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\fb1cb787e8052aa3e1c1ce6049e09f5d\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\garre\Documents\GitHub\Schafsnitz-CE450-Lab\Lab7\Codelabs\Lab9.1\HelloSharedPrefs\app\src\main\AndroidManifest.xml

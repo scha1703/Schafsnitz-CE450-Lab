@@ -1,0 +1,4 @@
+#Mon May 27 18:11:30 EDT 2019
+base.0=C\:\\Users\\garre\\Documents\\GitHub\\Schafsnitz-CE450-Lab\\Lab7\\Codelabs\\Lab9.1\\HelloSharedPrefs\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
